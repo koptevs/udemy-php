@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4a86265-0498-4cba-be74-b2fbfb96fa8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hpEqHDL9k8HNrv8LGernRiKALI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/domains/skriemelis&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.PHP&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\udemy_php\classes" />
+      <recent name="C:\OSPanel\domains\udemy_php\lib" />
+      <recent name="C:\OSPanel\domains\udemy_php" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\udemy_php" />
+      <recent name="C:\OSPanel\domains\udemy_php\includes\Lib" />
+      <recent name="C:\OSPanel\domains\udemy_php\includes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a86265-0498-4cba-be74-b2fbfb96fa8a" name="Changes" comment="" />
+      <created>1718282814104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718282814104</updated>
+      <workItem from="1718282821907" duration="117000" />
+      <workItem from="1718283313952" duration="2414000" />
+      <workItem from="1718366529138" duration="756000" />
+      <workItem from="1718440964021" duration="1494000" />
+      <workItem from="1718612867316" duration="2121000" />
+      <workItem from="1718620844736" duration="12059000" />
+      <workItem from="1718701069762" duration="820000" />
+      <workItem from="1718717068026" duration="4434000" />
+      <workItem from="1718781927664" duration="20329000" />
+      <workItem from="1718888868226" duration="706000" />
+      <workItem from="1719334996111" duration="5777000" />
+      <workItem from="1719388879366" duration="40000" />
+      <workItem from="1719929021138" duration="198000" />
+      <workItem from="1719929365720" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
